@@ -116,6 +116,32 @@
 	</div>
 	<div class="col-md-8">	
 		<div class="post">
+			{% if member.alum == true and member.endyear and member.endyear != "" %}
+			<h1>Alumnus Since</h1>
+			<p>{{ member.endyear }}</p>
+			{% endif %}
+
+			{% assign member_first_pos = member.first_position | default: "" | strip %}
+			{% assign member_curr_pos = member.current_position | default: "" | strip %}
+			{% if member_curr_pos != "" and member_curr_pos != member_first_pos %}
+			<h1>Current Position</h1>
+			<p>{{ member_curr_pos }}</p>
+			{% endif %}
+
+			{% if member_first_pos != "" %}
+			<h1>First position after graduation</h1>
+			<p>{{ member_first_pos }}</p>
+			{% endif %}
+
+			{% if member.thesis_title and member.thesis_title != "" %}
+			<h1>Thesis/Project </h1>
+			{% if member.thesis_url and member.thesis_url != "" %}
+			<p><a href="{{ member.thesis_url }}">{{ member.thesis_title }}</a></p>
+			{% else %}
+			<p>{{ member.thesis_title }}</p>
+			{% endif %}
+			{% endif %}
+
 			{{ content }}
 		</div>
 		
@@ -177,7 +203,7 @@
 							&#9658 <em> {{ paper.journal }}</em> 
 							{%if paper.external_link%}<a href="{{ paper.external_link}}" class="label label-info">[paper link]</a>{% endif %}
 							{%if paper.github%}<a href="{{ paper.github }}" class="label label-red">[code]</a>{% endif %}
-							{%if paper.doi%}<a href="http://dx.doi.org/{{ paper.doi }}" class="label label-default">[doi]</a>{% endif %}
+							{%if paper.doi%}<a href="https://dx.doi.org/{{ paper.doi }}" class="label label-default">[doi]</a>{% endif %}
 							<!-- {%if paper.pdf%}<a href="{{ paper.pdf }}" class="off">[pdf]</a>{% endif %} -->
 							{%if paper.pdf%}<a href="{{ paper.pdf }}" class="label label-primary">[pdf]</a>{% endif %}
 							{%if paper.poster%}<a href="{{ paper.poster }}" class="label label-green">[poster]</a>{% endif %}

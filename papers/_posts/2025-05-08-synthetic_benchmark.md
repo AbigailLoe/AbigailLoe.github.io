@@ -2,7 +2,7 @@
 layout: paper
 title: "Generating Synthetic Electronic Health Record (EHR) Data: A Methodological Scoping Review with Benchmarking on Phenotype Data and Open-Source Software"
 image: /assets/images/papers/synth_benchmark.png
-authors: Xingran Chen, Zhenke Wu$^*$, Xu Shi, Hyunghoon Cho, Bhramar Mukherjee$^{**}$
+authors: Xingran Chen, Zhenke Wu, Xu Shi, Hyunghoon Cho, Bhramar Mukherjee
 year: 2025
 shortref: Chen et al.
 journal: Journal of the American Medical Informatics Association
@@ -20,10 +20,11 @@ tags:
     - generative AI
     - benchmarking
     - review
+    - ehr
  
 ---
 
-$^*$: corresponding author; $^{**}$: senior author
+**Corresponding author**: Zhenke Wu
 
 # Abstract
 

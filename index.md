@@ -28,20 +28,22 @@ categories:
 
 **Name in Chinese:**[ 吴振科 <i class="fa-brands fa-soundcloud"></i>](https://soundcloud.com/zhenke-wu/zhenke-wu-name). Pronounced: "Jen-Kuh Wu".
 
-[Bio + Contact](/team/zhenke-wu)
+<hr/>
+I am an [Associate Professor](https://sph.umich.edu/faculty-profiles/wu-zhenke.html) (with tenure) in the [Department of Biostatistics](https://sph.umich.edu/biostat/) at [University of Michigan](https://www.umich.edu), Associate Professor of Global Public Health, and a faculty affiliate at [Michigan Institute for Data and AI in Society (MIDAS)](http://midas.umich.edu).
 
-[Publications](/papers/) by: [year](papers/archive/year), [topic](papers/archive/topic), or [word cloud](papers/archive/explore) 
+[[Bio + Contact](/team/zhenke-wu)][[CV](assets/pdfs/team/zhenkewu_cv.pdf)] or [[CV 1-pager](assets/pdfs/team/zhenkewu_cv_one_page.pdf)]
 
-CV: [[pdf]](assets/pdfs/team/zhenkewu_cv.pdf) or [[1-pager]](assets/pdfs/team/zhenkewu_cv_one_page.pdf) or [[Overleaf]](https://www.overleaf.com/read/dbktqfjxccbv)
+[Publications](/papers/) by [year](papers/archive/year), [topic](papers/archive/topic), or [word cloud](papers/archive/explore) 
 
-[[<i class="fa-brands fa-google-scholar"></i> Google Scholar]](https://scholar.google.com/citations?user=3ffCNrEAAAAJ&hl=en) [[<i class="fa-brands fa-github"></i> GitHub]](https://github.com/zhenkewu?tab=activity) [[<i class="fa-brands fa-x-twitter"></i>]](https://twitter.com/ZhenkeWu)
+
+
+[[<i class="fa-brands fa-google-scholar"></i> Google Scholar](https://scholar.google.com/citations?user=3ffCNrEAAAAJ&hl=en)] [[<i class="fa-brands fa-github"></i> GitHub](https://github.com/zhenkewu?tab=activity)] [[<i class="fa-brands fa-x-twitter"></i>](https://twitter.com/ZhenkeWu)]
 
 The best way to contact me is email (zhenkewu [arroba] umich [punto] edu). 
 
 Direction to my office is [here](assets/pdfs/team/zhenkewu-office.pdf).
 
-<hr/>
-I am an [Associate Professor](https://sph.umich.edu/faculty-profiles/wu-zhenke.html) (with tenure) in the [Department of Biostatistics](https://sph.umich.edu/biostat/) at [University of Michigan](https://www.umich.edu) and a faculty affiliate at [Michigan Institute for Data and AI in Society (MIDAS)](http://midas.umich.edu).
+
 
 
 ##### Working Group:
@@ -58,9 +60,15 @@ I am an [Associate Professor](https://sph.umich.edu/faculty-profiles/wu-zhenke.h
 
 > Tagline: AI for affordable and individualized healthcare; computational and interventional digital health. 
 
-My research is motivated by biomedical and public health problems and is centered on the design and application of statistical methods that inform health decisions made by individuals, or precision medicine. Towards this goal, I focus on two lines of methodological research: a) structured Bayesian latent variable models for clustering and disease subtyping, and b) study design, causal and reinforcement learning methods for evaluating sequential interventions that tailor to individuals' changing circumstances such as in interventional mobile health studies. I am committed to developing robust, scalable, and interpretable statistical methods to harness real-world, high-dimensional, dynamic data for individualized health. The methods and software developed so far have supported studies in diverse scientiﬁc ﬁelds including infectious disease epidemiology, autoimmune diseases, mental health, behavioral health, and cancer. I am also exploring the intersection between generative AI and biostatistics.
+My research is motivated by biomedical and public health problems and is centered on the design and application of statistical methods that inform health decisions made by individuals, or precision medicine. Towards this goal, I focus on three lines of methodological research: 
 
-I am deeply passionate about advancement of modern Bayesian latent variable methods, with a keen focus on developing tools that address pivotal public health challenges faced predominantly by low and middle-income countries (LMIC). My contributions include the development of general methods and the creation of publicly-accessible software tailored for world's most updated pediatric [pneumonia etiology estimates across seven sub-Saharan African and Southeast Asian countries](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)30721-4/fulltext). Additionally, in collaboration with demographers and statisticians, I've pioneered domain-adaptive mortality estimation for deaths occurring outside the civil registration and vital statistics systems using [computer-coded verbal autopsy](https://openva.net/). Recently, I've been working to advance digital mental health for healthcare workers in Kenya, in collaboration with the [Data Science Initiative in Africa](https://www.datascienceafrica.org/). This effort draws upon my expertise in interventional and predictive mobile health, honed through pioneering studies in the US (Intern Health Study - world's largest multi-year microrandomized trial, and Caregiver Quality of Life Study). I enjoy embracing and navigating the unique challenges presented within the LMIC contexts and seizing the opportunity therein to shape how statistics can effect meaningful change.
+* a) structured Bayesian latent variable models for clustering and disease subtyping, 
+* b) study design, causal and reinforcement learning methods for evaluating sequential interventions that tailor to individuals' changing circumstances such as in interventional mobile health studies, and 
+* c) valid statistical inference using AI/ML predictions/synthesized data. 
+
+I am committed to developing robust, scalable, and interpretable statistical methods to harness real-world, high-dimensional, dynamic data for individualized health. The methods and software developed so far have supported studies in diverse scientiﬁc ﬁelds including infectious disease epidemiology, autoimmune diseases, mental health, behavioral health, and cancer. I am also exploring the intersection between generative AI, trustworthy AI, and biostatistics.
+
+I am deeply passionate about advancement of modern Bayesian latent variable methods, with a keen focus on developing tools that address pivotal public health challenges faced predominantly by low and middle-income countries (LMIC). My contributions include the development of general methods and the creation of publicly-accessible software ([`baker`](https://github.com/zhenkewu/baker): `84,000` downloads as of Oct 2025) tailored for world's most updated pediatric [pneumonia etiology estimates across seven sub-Saharan African and Southeast Asian countries](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)30721-4/fulltext). Additionally, in collaboration with demographers and statisticians, I've pioneered domain-adaptive mortality estimation for deaths occurring outside the civil registration and vital statistics systems using [computer-coded verbal autopsy](https://openva.net/). Recently, I've been working to advance digital mental health for healthcare workers in Kenya, in collaboration with the [Data Science Initiative in Africa](https://dsi-africa.org/). This effort draws upon my expertise in interventional and predictive mobile health, honed through pioneering studies in the US (Intern Health Study - world's largest multi-year microrandomized trial, and Caregiver Quality of Life Study). I enjoy embracing and navigating the unique challenges presented within the LMIC contexts and seizing the opportunity therein to shape how statistics can effect meaningful change.
 
 
 #### Keywords
@@ -79,7 +87,8 @@ I am deeply passionate about advancement of modern Bayesian latent variable meth
 #### Advising
 We are recruiting motivated and hard-working people interested in Bayesian methods and computation, graphical models, causal inference, sequential decision making, reinforcement learning and large-scale health data analytics. If you want to get involved, please
 - Review our [research themes](#research-themes) and [recent publications](papers/archive/year)
-- [Say hi](/sayhi/) via email or form to discuss your interests
+- [Say hi](/sayhi/) via email (if first email, add the word `giraffe` at the end of the subject line to indicate you have visited this site) or form to discuss your interests
+- [Open Member Database](/team/database) <span class="member-db-text">Search, filter, and sort all members</span>
 
 ##### Other opportunities: send me an email if interested in collaborating!
 
@@ -92,7 +101,7 @@ I currently collaborate closely with
 - [Intern Health Study](https://www.srijan-sen-lab.com/intern-health-study)
 - [openVA - mortality estimation using verbal autopsy](https://openva.net/)
 - [Center for Clinical Outcomes Development and Application (CODA)](https://medresearch.umich.edu/labs-departments/centers/coda)
-- [Data Science in Africa] - the [UZIMA-DS project](https://uzimadatascience.org/).
+- [Data Science in Africa] - the [UZIMA-DS Hub](https://uzimadatascience.org/).
  
 - [Precision Health Use Case: PROviding Mental Health Precision Treatment (PROMPT)](https://precisionhealth.umich.edu/workgroups/prompt/)
 - [Cancer Control and Population Sciences, Rogel Cancer Center](http://www.mcancer.org/research/programs/cancer-control-and-population-sciences)
