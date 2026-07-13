@@ -1,30 +1,8 @@
-Zhenke Wu's Research Website: [click to view](http://zhenkewu.com)
+My Personal Webstie: [click to view](http://abigailloe.github.io)
 
 # Notes
-
-* [2025/06/11] 
-  - Search bar font can be changed in `_includes/search-form-global.html` or `_includes/search-form.html`
-  - Font in the top and bottom navbars are controlled in `assets/themes/lab/css/style.scss`. Check: `the last body{}`. Currently it is `Roboto`. This is not a clean solution.
-  - Font in all other places follows the order specified in `$font-stack:    jinkaiFont, "museo-sans", Optima, sans-serif;` in the file `assets/themes/lab/css/style.scss`
-  - The fonts are stored in the folder: `assets/themes/lab/fonts`. The file `assets/themes/lab/styles/font.css` refers to these files. This structure and `jinkaiFont` follows [manateelazycat.github.io
-](https://github.com/manateelazycat/manateelazycat.github.io).
-
-* [2025/05/28] Added IpMeta and Google Tag Manager.
-
-* [2024/10/26] Added paper by topic; it uses `pages_list_paper` and `tags_list_paper` in `JB` folder. They will look for `tags` in papers.
-  * when specifying tags, please use lower cases; it is painful to implement sorting in a case insensitive way (if you know, let me know!)
-  * once you click `Topic` in the `papers` tab, you should be able to see the keywords with counts at the top and the list of papers by the keywords below.
-
-* [2023/12/16] Added search function; a useful reference is [here](https://github.com/christian-fei/Simple-Jekyll-Search) and [here](https://kevquirk.com/how-to-add-search-jekyll). Need to do the following:
-    - Put the the javascript file at `./js/search-scripts.js`, which is based on the[`SimpleJekyllSearch`](https://github.com/christian-fei/Simple-Jekyll-Search) which specifies options for doing additional operations on the search results, e.g., sorting.
-    - Put the javascript file at `./js/search-result.js` which defines a `simple_search()` function that calls the `SimpleJekyllSearch()` function above, with additional specifications of how the search inputs and outputs would be. The inputs and results will be processed by `search-form-global.html` or `search-form.html` below to be included into a page to render search bar and display search results
-    - Put `search-form-global.html` into the `_include` folder and put the following into where you'd like your search bar to be 
-        -  `<div> {% include search-form-global.html %} </div>`
-      - The above is to search globally (based on `search-global.json` which pulls data from posts in all of the website and produce an actual `.json` file with the same name in the generated static site folder named `_site`); if you want to only search for a subset of posts, e.g., papers, you can modify the json file into what you want, e.g., `search.json` in the main directory is a separate json file to pull data on posts in the papers category only. Please feel free to modify the Liquid commands or include additional info to be pulled. To include search bar only for the subset of posts, ew need to use a include a different html statement to insert the search bar where you'd like to be. For example, I included only the paper search bar on the paper pages:
-        - `<div> {% include search-form-global.html %} </div>` 
-    - The optional settings: currently I use sorting function argument `sortMiddleware` in `search-form.html` and `search-form-global.html`, where the former is for papers only (order by year), the latter is for the entire website (order by category and year). You will need to specify the `sort_curr` function to define your desired sorting mechanism in `Javascript`.
-
-
+* This site was forked from my advisor, [Zhenke Wu's](http://zhenkewu.com) personal website. Any weirdness is due to modifications on my part.
+  
 * After cloning the repo to your local folder, you'll need to install jekyll to build and test your modified site. 
 
 * fonts
