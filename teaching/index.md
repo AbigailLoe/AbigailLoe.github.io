@@ -13,18 +13,11 @@ navorder: 3
 
 ## Teaching Philosophy
 
-[Add information about your teaching philosophy and approach here]
+I love teaching any and all kinds of statistics; afterall, statistics is how we make sense of the randomness around us. I particularly love teaching introductory courses, but I am excited to teach upper-level capstone classes at Macalester.
 
 ## Current Courses
 
-[List your current courses here]
-
-### Course 1
-- **Title:** [Course Title]
-- **Semester:** [Semester]
-- **Description:** [Brief description]
-
-### Course 2
+### STAT 155, Sections 
 - **Title:** [Course Title]
 - **Semester:** [Semester]
 - **Description:** [Brief description]
