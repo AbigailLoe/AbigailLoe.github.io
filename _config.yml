@@ -20,32 +20,32 @@ markdown: kramdown
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Zhenke Wu, PhD
-tagline: Research updates on AI for Health, Computational and Interventional Digital Health
-url: http://zhenkewu.com
-name : Zhenke Wu, PhD
-description: Research updates on AI for Health, Computational and Interventional Digital Health
+title : Abigail Loe, PhD
+tagline: Personal website for updates on research and teaching
+url: http://abigailloe.com
+name : Abigail Loe, PhD
+description: Personal website for updates on research and teaching
 
 institution:
-  url: https://www.umich.edu
-  name: University of Michigan
+  url: https://www.macalester.edu
+  name: Macalester College
 department:
-  url: https://sph.umich.edu/biostat/
-  name: Department of Biostatistics
-  address: 1415 Washington Heights 
-  office: 4626 SPH-I (within Suite 4600)
-  city: Ann Arbor, MI 48109
+  url: https://www.macalester.edu/mscs/
+  name: Department of Mathematics, Statistics and Computer Science
+  address: 1600 Grand Ave
+  office: Olin-Rice Science Center, Room 222
+  city: Saint Paul, MN, 55105
   logo: /assets/images/umich-sph-logo.png
   map-image: /assets/images/umich-sph-map.png
   map: http://goo.gl/HXM9Pi
   workphone: +1-734-764-7067
 author :
-  name : Zhenke Wu
-  email : zhenkewu [arroba] umich [punto] edu
-  github : zhenkewu
-  twitter : ZhenkeWu
-  googlescholar: 3ffCNrEAAAAJ
-  uri: https://zhenkewu.com
+  name : Abigail Loe
+  email : aloe [arroba] macalester [punto] edu
+  github : abigailloe
+  # twitter : ZhenkeWu
+  # googlescholar: 3ffCNrEAAAAJ
+  uri: https://abigailloe.com
 #  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
@@ -56,7 +56,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : https://zhenkewu.com
+production_url : https://abigailloe.com
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -114,7 +114,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : z-wus-stuff
+      short_name : false
     livefyre :
       site_id : 123
     intensedebate :
@@ -132,7 +132,7 @@ JB :
   analytics :
     provider : google
     google : 
-      tracking_id : G-S6P4NYZBF1 # this is Google Analytics 4 measurement ID.
+      tracking_id : #false # this is Google Analytics 4 measurement ID.
     getclicky :
       site_id : 
     mixpanel :
@@ -222,7 +222,7 @@ exclude:
   - "Gemfile.lock"
 
 projects:
-  - zhenkewu/baker
-  - zhenkewu/mpcr
-  - zhenkewu/spotgear
-  - oslerinhealth
+  - abigailloe/pair_gee
+  - abigailloe/rfre.po
+  # - zhenkewu/spotgear
+  # - oslerinhealth
