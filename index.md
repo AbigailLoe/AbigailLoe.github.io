@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Abigail Loe
+title: Abby Loe
 categories:
  - home
 ---
@@ -15,14 +15,14 @@ categories:
 </div>	
 <br>
 
+Welcome to my personal website! I am an Assistant Professor in the [Department of Mathematics, Statistics and Computer Science](https://www.macalester.edu/mscs/) at [Macalester College](https://www.macalester.edu/). As of July 2026, this website is still under construction, so please bear any oddness with patience.
+
 <div class="row">
    <div class="col-sm-12 text-center">
         <img src="{{ site.baseurl }}/assets/profile.jpg" alt="Abigail Loe" class="profile-photo" style="max-width: 300px; height: auto; border-radius: 8px;">
     </div>
 </div>
 <br>
-
-Welcome to my personal website! It is currently under construction, so place be patient of any residual oddness. I am an Assistant Professor in the [Department of Mathematics, Statistics and Computer Science](https://www.macalester.edu/mscs/) at [Macalester College](https://www.macalester.edu/).
 
 On this site, you'll find information about my [research](/research/), [teaching](/teaching/), and [background](/about/).
 
