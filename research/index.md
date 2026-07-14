@@ -13,22 +13,17 @@ navorder: 2
 
 ## Research Interests
 
-[Add information about your research areas and interests here]
+I work in survival analysis, which models time-to event, whether or not death and medical statistics are involved. Most methods are nonparametric and semiparametric in nature.
 
-## Current Projects
-
-[Describe your current research projects]
+% ## Current Projects
 
 ## Publications
 
-[You can add your publications here, or link to Google Scholar, etc.]
+For a list of my work, please see my google scholar.
 
-## Collaborators
-
-[Information about collaborators and research groups]
 
 <hr/>
 
 ## Research Questions
 
-If you have questions about my research or are interested in collaboration, please feel free to reach out at aloe [at] macalester [dot] edu.
+If you have questions about my research or are interested in collaboration, please feel free to reach out at aloe [at] macalester [dot] edu. Macalester students, feel free to drop by during my office hours to chat if you are interested in hearing more about my work.
