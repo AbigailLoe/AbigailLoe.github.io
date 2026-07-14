@@ -13,15 +13,16 @@ navorder: 1
 
 ## Background
 
-I am an Assistant Professor in the Department of Mathematics, Statistics and Computer Science at Macalester College. 
+I am an Assistant Professor in the Department of Mathematics, Statistics and Computer Science at Macalester College. Prior to joining Macalester, I completed my PhD in the Department of Biostatistics at the University of Michigan, under the direction of Professors Susan Murray and Zhenke Wu.
 
 ## Interests
 
-My research interests include [add your research areas here].
+My theoretical research sits at the intersection of machine learning, survival analysis, recurrent events, and longitudinal analysis. Please see my [google scholar](https://scholar.google.com/citations?hl=en&user=ulJeb_cAAAAJ) for a list of recent papers. My applied research has to date, largely been in the field of pulmonary medicine, though I always enjoy new collaborations with interesting statistical questions and considerations
 
 ## Education
-
-[Add your educational background here]
+B.A.-Mathematics with a minor in Women's and Gender Studies, Carleton College
+M.S.-Biostatistics, University of Michigan
+Ph.D.-Biostatistics, University of Michigan
 
 ## Outside of Work
 
