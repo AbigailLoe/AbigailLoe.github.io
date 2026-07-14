@@ -17,14 +17,10 @@ I love teaching any and all kinds of statistics; afterall, statistics is how we 
 
 ## Current Courses
 
-### STAT 155, Sections 
-- **Title:** [Course Title]
-- **Semester:** [Semester]
-- **Description:** [Brief description]
-
-## Past Courses
-
-[List past courses you have taught]
+### STAT 155, Sections 03 and 04
+- **Title:** [Introduction to Statistical Modeling]
+- **Semester:** [Fall 2026]
+- **Description:** An introductory statistics course with an emphasis on multivariate modeling. Topics include descriptive statistics, data visualizations, multivariate linear regression, logistic regression, probability, model building and interpretation (i.e., confounding variables, causal diagrams, data context), and statistical inference (i.e., confidence intervals and hypothesis testing).
 
 ## Student Advising
 
@@ -34,6 +30,6 @@ I love teaching any and all kinds of statistics; afterall, statistics is how we 
 
 ## Office Hours
 
-[Add your office hours here]
+I have yet to schedule office hours for this semester. When I know more, I will post here.
 
 If these times don't work for you, please feel free to email me to schedule an appointment at aloe [at] macalester [dot] edu.
