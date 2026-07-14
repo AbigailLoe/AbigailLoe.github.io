@@ -15,7 +15,7 @@ categories:
 </div>	
 <br>
 
-Welcome to my personal website. I am an Assistant Professor in the [Department of Mathematics, Statistics and Computer Science](https://www.macalester.edu/mscs/) at [Macalester College](https://www.macalester.edu/).
+Welcome to my personal website! It is currently under construction, so place be patient of any residual oddness. I am an Assistant Professor in the [Department of Mathematics, Statistics and Computer Science](https://www.macalester.edu/mscs/) at [Macalester College](https://www.macalester.edu/).
 
 On this site, you'll find information about my [research](/research/), [teaching](/teaching/), and [background](/about/).
 
