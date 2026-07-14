@@ -21,17 +21,19 @@ My theoretical research sits at the intersection of machine learning, survival a
 
 ## Education
 B.A.-Mathematics with a minor in Women's and Gender Studies, Carleton College
+
 M.S.-Biostatistics, University of Michigan
+
 Ph.D.-Biostatistics, University of Michigan
 
 ## Outside of Work
 
-[Add information about your interests and hobbies here]
+You can find me running, playing volleyball, reading, or doing any number of crafts.
 
 <hr/>
 
 **Contact Information:**
 
 - **Email:** aloe [at] macalester [dot] edu
-- **Office:** Olin-Rice Science Center, Room 222
+- **Office:** Olin-Rice Science Center
 - **Phone:** +1-651-696-6000
