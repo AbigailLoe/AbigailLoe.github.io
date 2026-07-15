@@ -9,7 +9,7 @@ categories:
 <div class="row">
    <div class="col-sm-12">
         <div class="bigtitle logobox">
-            Abigail Loe
+            Abby Loe
         </div> 
     </div>
 </div>	
@@ -19,7 +19,7 @@ Welcome to my personal website! I am an Assistant Professor in the [Department o
 
 <div class="row">
    <div class="col-sm-12 text-center">
-        <img src="{{ site.baseurl }}/assets/images/home_img.jpeg" alt="Abigail Loe" class="profile-photo" style="max-width: 300px; height: auto; border-radius: 8px;">
+        <img src="{{ site.baseurl }}/assets/images/IMG_7678.jpeg" alt="Abigail Loe" class="profile-photo" style="max-width: 300px; height: auto; border-radius: 8px;">
     </div>
 </div>
 <br>
