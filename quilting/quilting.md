@@ -7,9 +7,13 @@ group: navigation
 navorder: 4
 ---
 {% include JB/setup %}
+### Quilts
 
-<div class="smalltitle text-left">Quilts</div>
+I have always loved making things, and I got very into quilting at the end of college and graduate school. It's a lovely way to wind down and make something tangible at the end of a day working with ideas. This page documents some of the more recent quilts and quilt tops I have made.
+
 <div class="bigspacer"></div>
+
+
 
 <div class="row">
    <div class="col-sm-12 text-center">
