@@ -20,7 +20,7 @@ navorder: 4
 
 <div class="row">
    <div class="col-sm-12 text-center">
-        <img src="{{ site.baseurl }}/assets/images/scrap2.jpeg" alt="A second scrap quilt" class="profile-photo" style="max-width: 150px; height: auto; border-radius: 8px;">
+        <img src="{{ site.baseurl }}/assets/images/scrap2.JPG" alt="A second scrap quilt" class="profile-photo" style="max-width: 150px; height: auto; border-radius: 8px;">
     </div>
 </div>
 <br>
