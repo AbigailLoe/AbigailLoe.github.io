@@ -13,7 +13,7 @@ navorder: 1
 
 ## Background
 
-I am an Assistant Professor in the Department of Mathematics, Statistics and Computer Science at Macalester College. Prior to joining Macalester, I completed my PhD in the Department of Biostatistics at the University of Michigan, under the direction of Professors Susan Murray and Zhenke Wu.
+I am an Assistant Professor in the Department of Mathematics, Statistics and Computer Science at Macalester College. Prior to joining Macalester, I completed my PhD in the Department of Biostatistics at the University of Michigan, under the direction of Professor Susan Murray and Professor Zhenke Wu.
 
 ## Interests
 
@@ -28,7 +28,7 @@ Ph.D.-Biostatistics, University of Michigan
 
 ## Outside of Work
 
-You can find me running, playing volleyball, reading, or doing any number of crafts.
+You can find me running, playing volleyball, reading, or doing any number of crafts (knitting, ceramics, sewing, quilting, drawing, baking to name a few).
 
 <hr/>
 
