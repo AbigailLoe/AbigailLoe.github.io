@@ -9,7 +9,7 @@ navorder: 4
 {% include JB/setup %}
 ### Quilts
 
-I have always loved making things, and I got very into quilting at the end of college, before starting graduate school. It's a lovely way to wind down and make something tangible at the end of a day working with ideas. This page documents some of the more recent quilts and quilt tops I have made.
+This page documents some of the more recent quilts and quilt tops I have made.
 
 <div class="bigspacer"></div>
 
