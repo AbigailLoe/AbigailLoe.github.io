@@ -32,6 +32,8 @@ I love teaching any and all kinds of statistics; afterall, statistics is how we 
 
 ## Office Hours
 
-I have yet to schedule office hours for this semester. When I know more, I will post here.
+Tuesay 4pm-5pm
+Wednesday 3:30pm-4:30pm
+Friday 9am-10am
 
 If these times don't work for you, please feel free to email me to schedule an appointment at aloe [at] macalester [dot] edu.
