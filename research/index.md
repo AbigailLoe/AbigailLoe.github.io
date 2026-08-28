@@ -15,7 +15,7 @@ navorder: 2
 
 I work in survival analysis, which models time-to event, whether or not death and medical statistics are involved. Most methods are nonparametric and semiparametric in nature.
 
-% ## Current Projects
+<!-- ## Current Projects -->
 
 ## Publications
 
