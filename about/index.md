@@ -28,7 +28,9 @@ Ph.D.-Biostatistics, University of Michigan
 
 ## Outside of Work
 
-You can find me running, playing volleyball, reading, or doing any number of crafts (knitting, ceramics, sewing, quilting, drawing, baking to name a few).
+You can find me running, playing volleyball, reading, or doing any number of crafts (knitting, ceramics, sewing, quilting, drawing, baking to name a few). I also adore my cat (ask me about her in office hours! I will show you way too many pictures...)
+
+![Sybie](/assets/images/Sybie.jpg)
 
 <hr/>
 
