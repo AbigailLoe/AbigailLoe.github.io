@@ -30,7 +30,8 @@ Ph.D.-Biostatistics, University of Michigan
 
 You can find me running, playing volleyball, reading, or doing any number of crafts (knitting, ceramics, sewing, quilting, drawing, baking to name a few). I also adore my cat (ask me about her in office hours! I will show you way too many pictures...)
 
-![Sybil](/assets/images/Sybie.jpg)
+<img src="{{ site.baseurl }}/assets/images/Sybie.jpg" alt="An unfinished quilt top" class="profile-photo" style="width: 100%; height: auto; border-radius: 8px;">
+<div class="caption" style="height: 1.5em;">Sybil</div>
 
 <hr/>
 
