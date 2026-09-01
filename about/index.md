@@ -13,7 +13,7 @@ navorder: 1
 
 ## Background
 
-I am an Assistant Professor in the Department of Mathematics, Statistics and Computer Science at Macalester College. Prior to joining Macalester, I completed my PhD in the Department of Biostatistics at the University of Michigan, under the direction of Professor Susan Murray and Professor Zhenke Wu.
+I am an Assistant Professor in the Department of Mathematics, Statistics and Computer Science at Macalester College. I use she/her/hers pronouns. Prior to joining Macalester, I completed my PhD in the Department of Biostatistics at the University of Michigan, under the direction of Professor Susan Murray and Professor Zhenke Wu.
 
 ## Interests
 
@@ -30,8 +30,8 @@ Ph.D.-Biostatistics, University of Michigan
 
 You can find me running, playing volleyball, reading, or doing any number of crafts (knitting, ceramics, sewing, quilting, drawing, baking to name a few). I also adore my cat (ask me about her in office hours! I will show you way too many pictures...)
 
-<img src="{{ site.baseurl }}/assets/images/Sybie.jpg" alt="An unfinished quilt top" class="profile-photo" style="width: 100%; height: auto; border-radius: 8px;">
-<div class="caption" style="height: 1.5em;">Sybil</div>
+<img src="{{ site.baseurl }}/assets/images/Sybie.jpg" alt=“A tortoiseshell cat, sleeping on a grey blanket" class="profile-photo" style="width: 100%; height: auto; border-radius: 8px;">
+<div class="caption" style="height: 1.5em;”>Sybil, dreaming up ways of causing chaos.</div>
 
 <hr/>
 
