@@ -28,7 +28,7 @@ Ph.D.-Biostatistics, University of Michigan
 
 You can find me running, playing volleyball, reading, or doing any number of crafts (knitting, ceramics, sewing, quilting, drawing, baking to name a few). I also adore my cat (ask me about her in [...]
 
-![A tortoiseshell cat, sleeping on a grey blanket](/assets/images/Sybie.jpg)
+![A tortoiseshell cat, sleeping on a grey blanket](/assets/images/Sybie.jpeg)
 
 **Contact Information:**
 
