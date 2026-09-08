@@ -33,5 +33,5 @@ You can find me running, playing volleyball, reading, or doing any number of cra
 **Contact Information:**
 
 - **Email:** aloe [at] macalester [dot] edu
-- **Office:** Olin-Rice Science Center
+- **Office:** Olin-Rice Science Center 121
 - **Phone:** +1-651-696-6000
