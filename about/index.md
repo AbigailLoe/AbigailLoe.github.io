@@ -6,7 +6,6 @@ description: About Abigail Loe
 group: navigation
 navorder: 1
 ---
-{% include JB/setup %}
 
 <div class="smalltitle text-left">About Me</div>
 <div class="bigspacer"></div>
