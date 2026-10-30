@@ -31,6 +31,9 @@ This page documents some of the more recent quilts and quilt tops I have made.
    <div class="col-xs-12 col-sm-6 text-center">
         <img src="{{ site.baseurl }}/assets/images/baby.jpeg" alt="A baby quilt" class="profile-photo" style="width: 100%; height: auto; border-radius: 8px;">
     </div>
+       <div class="col-xs-12 col-sm-6 text-center">
+        <img src="{{ site.baseurl }}/assets/images/sunburst.jpeg" alt="An orange and yellow quilt with a block pattern" class="profile-photo" style="width: 100%; height: auto; border-radius: 8px;">
+    </div>
 </div>
 
 
