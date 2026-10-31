@@ -15,7 +15,7 @@ I am an Assistant Professor in the Department of Mathematics, Statistics and Com
 
 ## Interests
 
-My theoretical research sits at the intersection of machine learning, survival analysis, recurrent events, and longitudinal analysis. Please see my [google scholar](https://scholar.google.com/citations?hl=en&user=ulJeb_cAAAAJ)
+My theoretical research sits at the intersection of machine learning, survival analysis, recurrent events, and longitudinal analysis. Please see my [CV](/Professional_CV.pdf) for more information.
 
 ## Education
 B.A.-Mathematics with a minor in Women's and Gender Studies, Carleton College
