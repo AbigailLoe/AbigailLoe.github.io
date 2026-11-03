@@ -19,7 +19,7 @@ I work in survival analysis, which models time-to event, whether or not death an
 
 ## Publications
 
-For a list of my work, please see my google scholar.
+For a list of my work, please see my [CV](/Professional_CV.pdf) .
 
 
 <hr/>
